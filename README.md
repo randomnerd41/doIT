@@ -12,7 +12,11 @@ executeable that i renamed!
 1. go into the SAME folder as doIT.runME
 and then type "chmod +x doIT.runME".
 
-2. when your ready to run type
+2. run this in your terminal to
+install what the program needs!
+**"sudo apt install build-essential"**
+
+4. when your ready to run type
 "./doIT.runme" and the program will
 start and wait 12 seconds THEN start.
 
