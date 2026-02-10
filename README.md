@@ -5,8 +5,8 @@ programs ive ever made!
 # how to use and what it is
 doIT is a simple program made in C
 to fix and upgrade your debian based linux system!
-it comes with the raw doIT.c file but comes with
-a doIT.runME file witch is just a x86_64 linux
+it comes with the raw **doIT.c** file, but also comes with
+a **doIT.runME** file witch is just a x86_64 linux
 executeable that i renamed!
 
 1. go into the SAME folder as doIT.runME
